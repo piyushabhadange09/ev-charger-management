@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🚀 EV Charger Management System
 A full-stack web application to manage EV charger stations. It includes:
 
@@ -21,3 +22,7 @@ Frontend-->Vue 3, Axios, Vue Router
 Backend-->Node.js, Express, MongoDB
 Map -->Leaflet + OpenStreetMap
 Auth-->JWT + bcrypt
+=======
+# ev-charger-management
+EV Charger Management System – A full-stack web application to manage EV charging stations, including features like station listing, filtering by status/power/connector, CRUD operations, JWT-based authentication, and a Vue.js frontend.
+>>>>>>> 3e1df04d7324041a6a446a0044824fc214a3f7f2
